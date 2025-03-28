@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVCusingEFCoreDBFirst)\MVCusingEFCoreDBFirst)\obj\Debug\net6.0\DBfirst.RazorAssemblyInfo.cs
